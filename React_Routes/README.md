@@ -1,6 +1,10 @@
 # React Routes Practice
 
-- Clone this repository. It contains the necessary files to have a 4 page site.
+- Run the following commands in your terminal to clone this directory:
+```bash
+  curl -Ls http://bit.ly/react_router > /tmp/React_Routes && source /tmp/React_Routes
+```
+  It contains the necessary files to have a 4 page site.
 
 - Run the `yarn` command in order to locally install all of the project's dependencies.
 

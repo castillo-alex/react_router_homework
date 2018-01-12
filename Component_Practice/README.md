@@ -1,7 +1,10 @@
 # Components
 
 Now that we know how components work we are going to get some practice _translating_ our **Portfolio Website** to a **Component** architecture.
- - Clone this repository into your computer.
+ - Run this command in your terminal:
+   ```bash
+     curl -Ls http://bit.ly/component_homework > /tmp/Component_Practice && source /tmp/Component_Practice
+   ```
  - Run the `yarn` command in order to locally install all of the project's dependencies.
  - Then go ahead and split every section of your Portfolio Site into components. Don't forget to import and export components.
  - You should be able to run your local Javascript server (`npm start` or `yarn start`) without seeing any errors.

@@ -1,0 +1,24 @@
+{
+  "allProjects": [
+    {
+      "title": "The Armored Knight",
+      "imgName": "iron-man",
+      "description": "This is a short description of the project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur facere dolores magni totam sapiente libero reiciendis repellat atque error soluta sit, modi, doloremque, ab iusto nostrum reprehenderit magnam voluptatum quasi!"
+    },
+    {
+      "title": "The Fire that Burns Anew",
+      "imgName": "phoenix",
+      "description": "This is a short description of the project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur facere dolores magni totam sapiente libero reiciendis repellat atque error soluta sit, modi, doloremque, ab iusto nostrum reprehenderit magnam voluptatum quasi!"
+    },
+    {
+      "title": "The Goddess",
+      "imgName": "storm",
+      "description": "This is a short description of the project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur facere dolores magni totam sapiente libero reiciendis repellat atque error soluta sit, modi, doloremque, ab iusto nostrum reprehenderit magnam voluptatum quasi!"
+    },
+    {
+      "title": "The Thief",
+      "imgName": "gambit",
+      "description": "This is a short description of the project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequatur facere dolores magni totam sapiente libero reiciendis repellat atque error soluta sit, modi, doloremque, ab iusto nostrum reprehenderit magnam voluptatum quasi!"
+    }
+  ]
+}

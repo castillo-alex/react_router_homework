@@ -1,7 +1,7 @@
 # Install the Windows Subsystem for Linux
 Enable the "Windows Subsystem for Linux" optional feature and reboot.
 1.- Open PowerShell as Administrator:
-    ![admin.png]()
+    ![open powershell as admin](admin.png)
     
 2.- In your PowerShell run: 
 

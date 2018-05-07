@@ -24,10 +24,9 @@ Voilà! You have a Linux Subsystem on Windows 👍🏼
 
 ## Things to keep in mind
 - Every time we mention _Command Line_ it refers to the `bash` enabled PowerShell.
-    ![Not PowerShell]()
-    ![Yes bash enabled PowerShell]()
+    ![Not PowerShell and Powershell](noyes.png)
 
 - **Do not** open the Ubuntu shell (click on the Ubuntu icon) as it will open a Command Line located in a different folder than your current environment.
-    ![Do not open Ubuntu bash through icon]()
+    ![Do not open Ubuntu bash through icon](no.png)
 
 

@@ -5,7 +5,7 @@ Enable the "Windows Subsystem for Linux" optional feature and reboot.
     
 2.- In your PowerShell run:
 
-    ```shell
+    ```
     Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
     ```
     

@@ -19,6 +19,12 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
     
 6.- When it's done installing open a PowerShell and type `wsl`.
     ![Open power shell in Windows](wsl.png)
+    
+7.- Finally, type this in `wsl`:
+
+`sudo apt install -y build-essential zlib1g-dev libsqlite3-dev libpq-dev libreadline-dev`
+
+It will ask for the password you created for your Linux Subsystem.
 
 Voilà! You have a Linux Subsystem on Windows 👍🏼
 

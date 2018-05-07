@@ -12,7 +12,7 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 3.- Restart your computer when prompted.
 
 4.- Once your System restarts, open the Windows Store and search for **Ubuntu**.
-    ![Windows Store Ubuntu]()
+    ![Windows Store Ubuntu](store.png)
     
 5.- Select _Get_
     ![Selecting 'Get' from the MS Store Ubuntu result]()

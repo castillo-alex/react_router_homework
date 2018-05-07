@@ -15,10 +15,10 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
     ![Windows Store Ubuntu](search.png)
     
 5.- Select _Get_
-    ![Selecting 'Get' from the MS Store Ubuntu result]()
+    ![Selecting 'Get' from the MS Store Ubuntu result](store.png)
     
-6.- When it's done installing open a PowerShell and type `bash`.
-    ![Open power shell in Windows](store.png)
+6.- When it's done installing open a PowerShell and type `wsl`.
+    ![Open power shell in Windows](wsl.png)
 
 Voilà! You have a Linux Subsystem on Windows 👍🏼
 

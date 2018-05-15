@@ -4,3 +4,4 @@
 2. [Google Chrome](https://www.google.com/chrome/) - Get the Chrome web browser if you don't already
 1. [Postgresql](https://www.openscg.com/bigsql/postgresql/installers.jsp/) - Get the stable version
     1. to setup the user, type this in powershell: `createuser -U postgres -dS "$(wsl whoami)"`
+    2. you may need to create the db for the user too: `createdb -U $(wsl whoami) "$(wsl whoami)"`

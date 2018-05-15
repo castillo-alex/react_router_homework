@@ -1,0 +1,5 @@
+## In order to set up a Windows computer, we'll have to download a few things for windows.
+
+1. [Atom](https://atom.io/) - Your text editor
+2. [Google Chrome](https://www.google.com/chrome/) - Get the Chrome web browser if you don't already
+1. [Postgresql](https://www.openscg.com/bigsql/postgresql/installers.jsp/) - Get the stable version

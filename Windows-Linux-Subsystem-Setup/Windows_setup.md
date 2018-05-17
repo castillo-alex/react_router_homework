@@ -6,3 +6,4 @@
     1. to setup the user, type this in powershell: `createuser -U postgres -dS "$(wsl whoami)"`
     2. you may need to create the db for the user too: `createdb -U $(wsl whoami) "$(wsl whoami)"`
 4. Windows 10, version 1803 now has a shared environment variable: `WSLENV`. This means we can automate some more things!
+    1. For example, we can create an alias to send us home in case we get out of our windows path inside of `bash`.

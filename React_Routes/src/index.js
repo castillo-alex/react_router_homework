@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import ReactDOM from 'react-dom';
 import './CSS/index.css';
 
@@ -11,6 +12,21 @@ class Home extends Component{
   render(){
     return(
       // your code goes here
+      <div>
+        <Router>
+          <div>
+            <ul>
+              <li><Link to="/">Home</Link></li>
+              <li><Link to="/happy">Happy</Link></li>
+              <li><Link to="/sleepy">Sleepy</Link></li>
+              <li><Link to="/guilty">Guilty</Link></li>
+            </ul>
+            <Route path="/happy" component={Happy} />
+            <Route path="/sleepy" component={Sleepy} />
+            <Route path="/guilty" component={Guilty} />
+          </div>
+        </Router>
+      </div>
     )
   }
 }
